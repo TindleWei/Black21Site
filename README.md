@@ -1,4 +1,4 @@
-<img src="./images/logo.png" width="50%" height="50%">
+<img src="./images/logo.jpg" width="50%" height="50%">
 
 ## Welcome to Play My Game
 
