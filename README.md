@@ -1,4 +1,4 @@
-![](./images/logo.jpg)
+<img src="./images/logo.png" width="50%" height="50%">
 
 ## Welcome to Play My Game
 
