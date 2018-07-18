@@ -1,4 +1,4 @@
-![](./images/logo.png)
+![](./images/logo.jpg)
 
 ## Welcome to Play My Game
 
